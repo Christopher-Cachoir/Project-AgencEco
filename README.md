@@ -1,4 +1,4 @@
-# Projet AgenceEco
+# Projet AgencEco
 
 Ce projet a été réalisé dans le cadre d'un exercice pour une formation de développeur web. Le but était de créer un site web nommé AgenceEco en respectant une maquette donnée et en utilisant principalement HTML et CSS.
 
